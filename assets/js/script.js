@@ -1,10 +1,8 @@
 //console.dir(window.document);
 
 var buttonEl = document.querySelector("#save-task");
-console.log(buttonEl);
-
-var buttonEl = document.querySelector("#save-task");
 var tasksToDoEl = document.querySelector("#tasks-to-do");
+console.log(buttonEl);
 
 // buttonEl.addEventListener("click", function() {
 //   var listItemEl = document.createElement("li");
